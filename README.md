@@ -25,9 +25,3 @@ Adaptive comfort across varying climate conditions
 Multi-zone HVAC control
 Renewable energy integration
 Voice assistant compatibility
-👨‍💻 Authors
-
-G Vikas
-V Vineeth
-K Guru Prasad
-
