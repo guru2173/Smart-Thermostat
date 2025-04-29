@@ -1,0 +1,10 @@
+tensorflow
+gym
+numpy
+pandas
+matplotlib
+opencv-python
+flask
+requests
+pyserial
+RPi.GPIO; sys_platform == 'linux'
